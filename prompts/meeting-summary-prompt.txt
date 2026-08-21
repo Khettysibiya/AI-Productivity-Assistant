@@ -1,0 +1,1 @@
+Summarize the meeting transcript into Key Decisions, Action Items, and Risks in bullet points under 200 words
