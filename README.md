@@ -11,7 +11,7 @@ This AI assistant automates workplace tasks like email drafting, meeting summari
 ## Features & Prompts Used
 
 ### 1. Email Generation
-**Prompt:** Act as a professional executive assistant. Write a concise, polite follow-up email to a client who has not responded in 5 days. Tone: [Professional/Friendly/Formal/Persuasive], Audience: [Client/Manager/Team]. Include subject line, greeting, purpose, call-to-action. Keep under 150 words.
+**Prompt:** Act as a professional executive assistant. Write a concise, polite follow-up email to a client who has not responded in 5 days. Tone: Professional/Friendly/Formal/Persuasive, Audience: Client/Manager/Team. Include subject line, greeting, purpose, call-to-action. Keep under 150 words.
 
 ### 2. Meeting Summarization
 **Prompt:** Summarize the meeting transcript into Key Decisions, Action Items with owners, and Risks in bullet points under 200 words. Extract deadlines and next steps. Format for executive review.
