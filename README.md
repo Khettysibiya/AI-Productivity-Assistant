@@ -3,6 +3,7 @@
 **Live Links:**
 - 🚀 GitHub Pages: https://khettysibiya.github.io/AI-Productivity-Assistant/
 - 💜 Lovable App:https://bloom-work-iq.lovable.app
+- https://capeitinitiative-my.sharepoint.com/:p:/r/personal/khethiwe_sibiya_capaciti_org_za/_layouts/15/Doc.aspx?sourcedoc=%7BA028D930-6D83-40C9-A64E-106D92C846B4%7D&file=Presentation%201.pptx&action=editNew&mobileredirect=true&wdOrigin=MARKETING.POWERPOINT.OPEN%2CAPPHOME-WEB.BANNER.NEWBLANK&wdPreviousSession=a2408e59-d481-4c87-91e9-a2e4022b1890&wdPreviousSessionSrc=AppHomeWeb&ct=1787302766408
 
 ## Project Overview
 This AI assistant automates workplace tasks like email drafting, meeting summarization, task planning, research assistance, and AI chat support to save time and improve productivity. Built for ALX AI Starter Kit Capstone.
